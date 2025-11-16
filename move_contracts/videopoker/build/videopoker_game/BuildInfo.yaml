@@ -1,0 +1,30 @@
+---
+compiled_package_info:
+  package_name: videopoker_game
+  address_alias_instantiation:
+    casino: "0000000000000000000000000000000000000000000000000000000000000000"
+    one: "0000000000000000000000000000000000000000000000000000000000000002"
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+  source_digest: 4064BEA8D7F25AF3E49470B968D6158F6ECACECBC3E707DD71ADEDC17637C8D5
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    install_dir: ~
+    force_recompilation: false
+    lock_file: ".\\Move.lock"
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    default_flavor: one
+    default_edition: ~
+    deps_as_root: false
+    silence_warnings: false
+    warnings_are_errors: false
+    json_errors: false
+    additional_named_addresses: {}
+    lint_flag:
+      no_lint: false
+      lint: false
+dependencies:
+  - MoveStdlib
+  - One
