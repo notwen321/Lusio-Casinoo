@@ -1,6 +1,7 @@
 # 🎰 Lusio Casino - Web3 Gaming Platform on ONE Chain
 
 A fully decentralized casino platform built on ONE Chain blockchain featuring multiple provably fair games with real cryptocurrency betting.
+.
 🌐 **Live Demo**: 
 ![image](https://github.com/user-attachments/assets/09298dd7-8c46-467f-817d-0c12976226b3)
 ![image](https://github.com/user-attachments/assets/da090469-1d51-4429-bb21-6655f6aa1e9c)
