@@ -2,12 +2,6 @@
 
 A fully decentralized casino platform built on ONE Chain blockchain featuring multiple provably fair games with real cryptocurrency betting.
 .
-🌐 **Live Demo**: 
-![image](https://github.com/user-attachments/assets/09298dd7-8c46-467f-817d-0c12976226b3)
-![image](https://github.com/user-attachments/assets/da090469-1d51-4429-bb21-6655f6aa1e9c)
-![image](https://github.com/user-attachments/assets/b2b90fef-83c3-4f65-b58d-7fca437c874c)
-![image](https://github.com/user-attachments/assets/a732dae3-f60a-4d3b-9763-569e44d5284c)
-
 ## 🎮 Games Available
 
 ### 1. 🚀 Crash (Aviator Style)
@@ -34,6 +28,17 @@ A fully decentralized casino platform built on ONE Chain blockchain featuring mu
 - **Multiple hand rankings** - Royal Flush, Straight Flush, Four of a Kind, etc.
 - **Strategic decisions** - Choose which cards to hold
 - **Big payouts** - Up to 800x for Royal Flush
+
+## Gallery 
+<img width="1920" height="847" alt="image" src="https://github.com/user-attachments/assets/c688f343-4829-4557-b701-ab1a32da0e4b" />
+<img width="1920" height="851" alt="image" src="https://github.com/user-attachments/assets/c4b13a0d-94fe-47e0-8e4e-00613f2673cb" />
+<img width="1920" height="842" alt="image" src="https://github.com/user-attachments/assets/f4ec88f2-f0c1-4ecb-9991-c225e076aa28" />
+<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/1fb6c9dc-9d7f-42c1-af63-504695fdc6fe" />
+![image](https://github.com/user-attachments/assets/09298dd7-8c46-467f-817d-0c12976226b3)
+![image](https://github.com/user-attachments/assets/da090469-1d51-4429-bb21-6655f6aa1e9c)
+![image](https://github.com/user-attachments/assets/b2b90fef-83c3-4f65-b58d-7fca437c874c)
+![image](https://github.com/user-attachments/assets/a732dae3-f60a-4d3b-9763-569e44d5284c)
+
 
 ## 🏗️ Technology Stack
 
